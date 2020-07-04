@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(238, 237, 237);
+}
+
+#orange {
+    border-left: solid 5px orange;
+}
+
+#green {
+    border-left: solid 5px rgb(0, 255, 128);
+}
